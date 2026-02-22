@@ -50,7 +50,7 @@ async function seed() {
 
     process.exit(0);
   } catch (err) {
-    console.error('❌  Seed failed:', err.message);
+    console.error('  Seed failed:', err.message);
     process.exit(1);
   }
 }
