@@ -1,11 +1,11 @@
-# 📚 Book Hub — React Discovery App
+#  Book Hub — React Discovery App
 
 A full-stack book discovery application built with **React + TypeScript + Redux** (frontend) and **Node.js + Express + MongoDB** (backend).
 
 ##  Features
 
 ### For Users
-- 🔍 **Search & Filter** — search by title/author/keyword, filter by genre, author, rating, publication year
+-  **Search & Filter** — search by title/author/keyword, filter by genre, author, rating, publication year
 -  **Browse Books** — paginated book grid with sort options (date, rating, popularity, title)
 -  **Book Details** — rich detail page with description, stats, and metadata
 -  **Track Reads** — mark books as read (increments global read count)
@@ -83,7 +83,7 @@ npm run dev   # → http://localhost:3000
 
 | Role | Email | Password |
 |---|---|---|
-| Admin | admin@bookhub.com | admin123 |
+| Admin | mariam@bookhub.com | admin123 |
 | Reader | reader@bookhub.com | reader123 |
 
 The **Login page** has "Fill Admin" / "Fill Reader" buttons for convenience.
